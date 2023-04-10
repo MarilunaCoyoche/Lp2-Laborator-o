@@ -2,7 +2,7 @@
 # Integrantes del repositorio:
 # Carbajal Herrera Stephano Sebastián 
 # Coyoche Mamani Mariluna Jeaneth 
-# Ticona Cuno Adriana Milagros 
 # Macedo Barriga Diego Edmundo 
 # Pareja Abarca Maria Julia
+# Ticona Cuno Adriana Milagros 
 # Velasquez Ordoñez Dana Carol
