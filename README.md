@@ -1,4 +1,4 @@
-# Lp2-Laborator-o
+# Lp2-Laboratorio-Grupo 07
 # Integrantes del repositorio:
 # Carbajal Herrera Stephano Sebastián 
 # Coyoche Mamani Mariluna Jeaneth 
